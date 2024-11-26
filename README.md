@@ -1,5 +1,5 @@
 
-<p>Here is a sneak peek of what we are going to make.</p>
+## Building A Blog Application With Django
 https://djangocentral.com/building-a-blog-application-with-django/
 
 
