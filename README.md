@@ -68,15 +68,15 @@ Users can create blog posts from the front end and add for approval, by the admi
 Users can edit Profile Image, First Name, Last Name, Email id, username, password.
 
 ### Tech Stacks
-Language: Python 3.7
-Framework: Django 3.1.5
-Latest Fixes
-Added Unique Slug Generator based on Title
-Dynamic Title Tag for Blog Details
+<ul>
+<li>Language: Python 3.7 and above</li>
+<li>Framework: Django 3.1.5 and above</li>
+</ul>
 ## How you can contribute to this project?
+
 <ol>
 <li>Fork this project to your GitHub account</li> 
-<li>Clone the repository to your local machine and follow the above Installation instructions</ol>
+<li>Clone the repository to your local machine and follow the above Installation instructions</li>
 <li>Find an issue or feature and work on it</li>
 <li>Make a pull request</li>
 </ol>
