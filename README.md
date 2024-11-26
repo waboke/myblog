@@ -72,6 +72,7 @@ Users can edit Profile Image, First Name, Last Name, Email id, username, passwor
 <li>Language: Python 3.7 and above</li>
 <li>Framework: Django 3.1.5 and above</li>
 </ul>
+
 ## How you can contribute to this project?
 
 <ol>
@@ -80,6 +81,8 @@ Users can edit Profile Image, First Name, Last Name, Email id, username, passwor
 <li>Find an issue or feature and work on it</li>
 <li>Make a pull request</li>
 </ol>
+
+
 
 
 
