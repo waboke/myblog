@@ -21,12 +21,12 @@
     (env)$ pip install -r requirements.txt
 <li> Clone the repository</li>
 
-    (env)$ git clone 
-    (env)$ cd django-blog-app
+    (env)$ git clone https://github.com/waboke/myblog.git
+    (env)$ cd myblog
 </ol
 You have now successfully set up the project on your environment.
 
-How to run the project?
+## How to run the project?
 Make sure you are in env and then do the following each at a time.
 
 (env)$ python manage.py makemigrations
@@ -35,49 +35,51 @@ Make sure you are in env and then do the following each at a time.
 (env)$ python manage.py migrate
 (env)$ python manage.py createsuperuser
 (env)$ python manage.py runserver
-Features
-Blog list View
+## Features
+### Blog list View
 List all blog posts with Title, Tag, Number of total comments(working on for v1.2), Author Name, Date Posted, Image, and some body part with Read More button.
 
-Recent Posts
+### Recent Posts
 List all the post which are created recently with Image thumb and Title.
 
-category list
+### category list
 List all the categories related to the posts with total number of posts each categories have.
 
-Search
+### Search
 List all blog posts with the search query that you enter.
 
-Pagination
+### Pagination
 To limit with a certain number of posts in each page.
 
-Blog Detail View
+### Blog Detail View
 To view the complete blog post when clicked on Read More or on the Title.
 
-Features for v1.2
+### Features for v1.2
 Login/Register
 Users can Login/Register to the Blog App.
 
-Comment
+### Comment
 Users can comment to any blog post after login or comment anonymously without login.
 
-Create Blog Post
+### Create Blog Post
 Users can create blog posts from the front end and add for approval, by the admin.
 
-Edit Profile
+### Edit Profile
 Users can edit Profile Image, First Name, Last Name, Email id, username, password.
 
-Tech Stacks
+### Tech Stacks
 Language: Python 3.7
 Framework: Django 3.1.5
 Latest Fixes
 Added Unique Slug Generator based on Title
 Dynamic Title Tag for Blog Details
-How you can contribute to this project?
-Fork this project to your GitHub account
-Clone the repository to your local machine and follow the above Installation instructions.
-Find an issue or feature and work on it.
-Make a pull request.
+## How you can contribute to this project?
+<ol>
+<li>Fork this project to your GitHub account</li> 
+<li>Clone the repository to your local machine and follow the above Installation instructions</ol>
+<li>Find an issue or feature and work on it</li>
+<li>Make a pull request</li>
+</ol>
 
 
 
