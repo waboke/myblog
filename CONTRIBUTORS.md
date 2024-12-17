@@ -5,7 +5,7 @@ Contributors to myblog:
 <ul>
   <li>William Rupert Waboke (Computer Science)</li>
   <li>Izang Kushim Philemon U21ICT1022</li>
-  <li>Tomwa</li>
+  <li>Tomwa akaka</li>
 </ul>
 
 
